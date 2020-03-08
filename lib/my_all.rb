@@ -9,4 +9,4 @@ def my_all?(collection)
   end
 end
 end
-collection[5]
+my_all(5)
